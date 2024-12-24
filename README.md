@@ -1,5 +1,4 @@
-# Selective-Transfer-Learning
-Selective Transfer Learning
+# Efficient Selective Pre-Training for Imbalanced Fine-Tuning Data in Transfer Learning
 
 
 # Instructions:
